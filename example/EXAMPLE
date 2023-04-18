@@ -1,0 +1,5 @@
+KW1 = Hello
+KW2 = 143
+KW3 = False # Comment on line with a keyword
+# This is a comment containing a keyword KW2
+KW4 = 1 2 3 4
