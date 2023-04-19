@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='example_publish_pypi_medium',
-    version='0.0.1',
+    name='PyFINPUT',
+    version='0.0.2',
     license='GNU General Public License v3.0',
     author="Benedict Saunders",
     author_email='benedictsaunders@gmail.com',
@@ -12,4 +12,6 @@ setup(
     keywords='input, file, keywords',
     install_requires=[],
     description = "A simple parser for a file input, akin to the format of argparse",
+    long_description="""# PyFINPUT!\n\n  ## A small package to use a file to input multiple arguments to a script.\n\n""",
+    long_description_content_type='text/markdown',
 )
