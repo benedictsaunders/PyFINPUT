@@ -1,5 +1,14 @@
-KW1 = Hello
 KW2 = 143
-KW3 = False # Comment on line with a keyword
+KW3 = False True True# Comment on line with a keyword
 # This is a comment containing a keyword KW2
 KW4 = 1 2 3 4
+KW5 = 3.14159
+
+%a_block
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+%end_a_block
+
+KW1 = This is a string after "a block."
