@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: PyFINPUT
-Version: 0.0.2
+Version: 0.0.3
 Summary: A simple parser for a file input, akin to the format of argparse
 Home-page: https://github.com/benedictsaunders/PyFINPUT
 Author: Benedict Saunders
