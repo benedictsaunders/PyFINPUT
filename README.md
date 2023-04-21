@@ -6,7 +6,7 @@ Why not use an input file?
 
 Import like this (I need to fix this...)
 
-`pip install PyFINPUT==0.0.1`
+`pip install PyFINPUT==0.0.3`
 
 `from PyFINPUT import pyfinput`
 
@@ -27,7 +27,8 @@ Import like this (I need to fix this...)
         
    Character(s) to identify the beginning of comment strings
 
-### 2. Keywords can be added to the input_file object with the `add_keyword()` function:
+### 2. Keywords can be added to the input_file object with the `add_keyword()` function,
+### and blocks can be added with the `add_block()` function.
 
 * `name: str` (required)
    
